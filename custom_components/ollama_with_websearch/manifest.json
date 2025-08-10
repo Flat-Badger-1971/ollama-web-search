@@ -1,6 +1,6 @@
 {
-  "domain": "ollama",
-  "name": "Ollama",
+  "domain": "ollama-with-web",
+  "name": "Ollama with web search",
   "after_dependencies": ["assist_pipeline", "intent"],
   "codeowners": ["@synesthesiam"],
   "config_flow": true,

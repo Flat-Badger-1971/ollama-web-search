@@ -36,7 +36,7 @@ class OllamaConversationEntity(
     conversation.AbstractConversationAgent,
     OllamaBaseLLMEntity,
 ):
-    """Ollama conversation agent."""
+    """Ollama with web conversation agent."""
 
     _attr_supports_streaming = True
 

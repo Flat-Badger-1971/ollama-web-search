@@ -160,8 +160,8 @@ MODEL_NAMES = [  # https://ollama.com/library
 ]
 DEFAULT_MODEL = "qwen3:4b"
 
-DEFAULT_CONVERSATION_NAME = "Ollama Conversation"
-DEFAULT_AI_TASK_NAME = "Ollama AI Task"
+DEFAULT_CONVERSATION_NAME = "Ollama with web Conversation"
+DEFAULT_AI_TASK_NAME = "Ollama with web AI Task"
 
 RECOMMENDED_CONVERSATION_OPTIONS = {
     CONF_MAX_HISTORY: DEFAULT_MAX_HISTORY,
